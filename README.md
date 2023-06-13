@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/raw/main/README/img/Untiy banner (774 × 200 px).png" alt="banner" width ="100%" height = "auto"/></p>
+<img align="left" src="https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/README/Untiy%20banner%20(774%20%C3%97%20200%20px).png?raw=true" alt="banner" width ="100%" height = "auto"/></p>
 
 # Content
 [Takım İsmi](#Takım-İsmi)
