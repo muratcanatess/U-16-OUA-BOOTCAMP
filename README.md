@@ -1,9 +1,7 @@
 <img align="left" src="https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/README/Untiy%20banner%20(774%20%C3%97%20200%20px).png?raw=true" alt="banner" width ="100%" height = "auto"/></p>
 
-<br/>
-<div align="center">
-
-  <p align="center">
+<div align="center" >
+  <p align="center" >
     👨‍💻 2023 Bootcamp GitHub reposu 👨‍💻
     <br />
     <a href="https://github.com/muratcanatess/U-16-OUA-BOOTCAMP"><strong>Explore the docs »</strong></a>
@@ -14,15 +12,15 @@
  </p>
 </div>
 
-
 # 📖 Content
 - [Takım İsmi](#Takım-İsmi)   
 - [Ürün İle İlgili Bilgiler](#Ürün-İle-İlgili-Bilgiler)
    - [Takım Elemanları](#🤩-Takım-Elemanları)
-   - [Ürün İsmi](#Ürün-İsmi)
+   - [Oyun İsmi](#Oyun-İsmi)
+   - [Ürün Badge](#Ürün-Badge)
    - [Product Backlog URL](#Product-Backlog-URL)
-   - [Ürün Açıklaması](#Ürün-Açıklaması)
-   - [Ürün Özellikleri](#Ürün-Özellikleri)
+   - [Oyun Açıklaması](#Oyun-Açıklaması)
+   - [Oyun Özellikleri](#Oyun-Özellikleri)
    - [Hedef Kitle](#Hedef-Kitle)
    - [Juriye Not](#Juriye-Not)
    - [Demo](#🖥️-Demo)
@@ -31,11 +29,14 @@
    - [Iletişim](#✍️-Iletişim)
    - [Kaynak](#🚀-Kaynak)
 - [Kullanılan Teknolojiler İle İlgili](#Kullanılan-Teknolojiler-İle-İlgili)
-   - [Built With](#👾-Built-With)
+   - [Teknolojiler](#👾-Teknolojiler)
    - [Başlarken](#🏁-Başlarken)
       - [💡Önkoşullar](#💡-Önkoşullar)
       - [İndirme](#⚙️-İndirme)
 - [Sprint 1](#Sprint-1)
+   - [Sprint içinde tamamlanması tahmin edilen puan total](#Sprint-içinde-tamamlanması-tahmin-edilen-puan-total)
+   - [Puan tamamlama mantığı](#Puan-tamamlama-mantığı)
+   - [Daily Scrum](#Daily-Scrum)
    - [Sprint board update](#Sprint-board-update)
    - [Ürün Durumu](#Ürün-Durumu)
    - [Sprint Review](#Sprint-Review)
@@ -43,8 +44,8 @@
    - [Product Backlog URL](#Product-BacklogURL)
 
 # **Takım İsmi**
-Takım Unity 16
-Takım ismimiz.
+- Takım Unity 16
+- Takım ismimiz Zeniths
 # Ürün İle İlgili Bilgiler
 ## 🤩 Takım Elemanları
 <table>
@@ -56,44 +57,45 @@ Takım ismimiz.
             <sub><b>Ali Eren Kayhan</b></sub>
 <br/>
             <sub><b>Developer</b></sub>
+        </a>      
+</td>
+<td align="center">
+        <a href="https://github.com/muratcanatess">
+            <img src="https://avatars.githubusercontent.com/u/135648847?v=4" width="100;" alt="muratcanatess" style="margin-top:20px"/>
+            <br />
+            <sub><b>Muratcan Ateş</b></sub>
+<br/>
+            <sub><b>Developer</b></sub>
+            <br/>
+            <sub><b>Scrum Master</b></sub>
         </a>
         
 </td>
 <td align="center">
-        <a href="https://github.com/muratcanatess">
-            <img src="https://avatars.githubusercontent.com/u/135648847?v=4" width="100;" alt="muratcanatess"/>
+        <a href="https://github.com/Erthraus">
+            <img src="https://avatars.githubusercontent.com/u/94200634?v=4" width="100;" alt="muratcanatess" style="margin-top:20px" style="margin-top:20px"/>
             <br />
-            <sub><b>Muratcan Ateş</b></sub>
+            <sub><b>Mustafa Kemal Öz</b></sub>
 <br/>
-            <sub><b>Scrum Master</b></sub>
-<br/>
+            <sub><b>Developer</b></sub>
+            <br/>
             <sub><b>Product Owner</b></sub>
         </a>
         
 </td>
 <td align="center">
-        <a href="https://github.com/muratcanatess">
-            <img src="https://avatars.githubusercontent.com/u/32596425?v=4" width="100;" alt="muratcanatess"/>
+        <a href="https://github.com/muntehayvz">
+            <img src="https://avatars.githubusercontent.com/u/110225035?v=4" width="100;" alt="muratcanatess"/>
             <br />
-            <sub><b>Mustafa Kemal Öz</b></sub>
+            <sub><b>Münteha Yavuz</b></sub>
 <br/>
             <sub><b>Developer</b></sub>
         </a>
         
 </td>
 <td align="center">
-        <a href="https://github.com/muratcanatess">
-            <img src="https://avatars.githubusercontent.com/u/32596425?v=4" width="100;" alt="muratcanatess"/>
-            <br />
-            <sub><b>Münte</b></sub>
-<br/>
-            <sub><b>Developer</b></sub>
-        </a>
-        
-</td>
-<td align="center">
-        <a href="https://github.com/muratcanatess">
-            <img src="https://avatars.githubusercontent.com/u/32596425?v=4" width="100;" alt="muratcanatess"/>
+        <a href="https://github.com/NisaYildizz">
+            <img src="https://avatars.githubusercontent.com/u/136926413?v=4" width="100;" alt="muratcanatess"/>
             <br />
             <sub><b>Nisa Yıldız</b></sub>
 <br/>
@@ -104,10 +106,8 @@ Takım ismimiz.
 </tr>
 </table>
 
-## Ürün İsmi
-
---Scrap App--
-
+## Oyun İsmi
+-- Mind Maze --
 
 ## Ürün Badge 
 <div align="center">
@@ -140,37 +140,34 @@ Takım ismimiz.
 ## Product Backlog URL
 [Unity Takım 16 Miro Backlog Board](https://miro.com/app/board/uXjVMCWrkAs=/)
 
-## Ürün Açıklaması
+## Oyun Açıklaması
 
-Scrap App, daire sakinleri tarafından biriktirilmiş apartman ve sitelere ait kıymetli geri dönüşüm atıklarının, geri dönüştürülebilir atık toplayan firmalar tarafından toplanmasını kolaylaştırır ve apartman yönetimlerinin bir gelir kalemi olarak geri dönüşüm ödemesi almalarını sağlar. Ayrıca hurda ilanı verilebilen bu uygulamada kullanıcılar biriktirdikleri, bakır, demir, çelik, alüminyum, kağıt, cam vb hurdaların satışını ilanlar ile yapabilir. Scrap App, geri dönüştürülebilir atıkların kıymetinine önem verir, apartman ve site gibi, insanların blok halde yaşadığı mekanlarda, onların geri dönüşüm atıklarını topluca biriktirmelerini teşvik eder ve kolaylaştırır. Scrap App kağıt, metal, plastik cam vb ürünlerin geri dönüştürülmesi halinde, insanların kendisi, çevresi ve ülkesi için maddi gelir ve Dünya doğası için sürekli fayda sağlayabileceğini savunur ve geri dönüşüm sayesinde yeniden üretim ve madencilik faaliyetlerinin azaltılabileceğini ve böylece yeniden üretim kaynaklı doğaya olan zararın azaltılması gerektiği fikrini destekler ve yeniden kazanımı hedefler.
+- **Oyunun Hikayesi ve Temel Mekaniği**: Karakterimiz küçük yaşta başına gelen trajik bir olaydan sonra sıkıntılı bir hayat yaşamaktadır. Bir akşam akranlarının zorbalığına dayanamayarak yetimhaneden kaçıp bir kaza geçirir. Sonrasında ise odasında uyanır ama bir şeyler ters gitmektedir. Karakterimiz ailesinin ölümünden sorumlu olduğunu düşündüğü varlıktan kaçarken bir yandan da neler yaşadığını etraftaki ipuçlarını toplayarak hatırlamaya başlar. Temel mekanik yaratığa yakalanmamaya çalışırken bir yandan da haritadaki objectiveleri tamamlayarak yeni maplerin kilidini açmak üzerine kuruludur. Oyunun casual bir şekilde bitirilmesi durumunda oyunun kötü sonuna ulaşılır. Oyundaki gizli görev yerine getirilirse karakterimiz canavarın işini bitirmek için bir şansa sahip olacak ve yaratığı yenmesi üzerine oyunun mutlu sonuna ulaşılacaktır.
 
 
-- **Uygulama birincil fonksiyonu**: Apartman/site sakinlerinin geri dönüşebilir kıymetli atıkları apartman hizmetlisi tarafından düzenli olarak toplanarak, akıllı geri dönüşüm kutusunda biriktirilir, toplayıcı firma biriken atıklara ilişkin kutu doluluk oranını uygulama üzerinden görür ve satın alma teklifini apartman yönetimine uygulama ile bildirir, apartman yönetiminin teklif onayından sonra, atık satın alma işlemi gerçekleşir.
+## Oyun Özellikleri
 
-- **Uygulama ikincil fonksiyonu**: Kullanıcı elindeki geri dönüşebilir kıymetli maddeler için teklif almak üzere Scrap App'e girer ve ilan verir, toplayıcı firma, kullanıcının ilanına ilişkin ağırlık ve madde türü gibi bilgileri kullanıcının ilanında görür ve satın alma teklifini kullanıcıya bildirir, kullanıcının teklif onayından sonra, hurda satın alma işlemi gerçekleşir.
+- Gizem, Gerilim ve Survivor türünde
+- 3D 
+- First person
+- Minigameler içeriyor
+- Hikayesi var
+- Easter içeriyor
+- 2 sonu var (biri iyi diğeri kötü)
 
-## Ürün Özellikleri
-
-- Doluluk oranı %75'in üzerinde olan apartman akıllı atık kutularının kutu doluluk oranının geri dönüşüm atık toplayıcılarına bildirilmesi.
-- Doluluk oranı %75'in üzerinde olan apartman akıllı atık kutularındaki geri dönüşüm maddelerinin satın alınmasına ilişkin, toplayıcı firmalar tarafından satın alma teklifini apartman yönetimlerine sunabilmesi ve yönetici tarafından teklifin kabul edilmesi.
-- Apartmandan bağımsız olarak biriktirilmiş bireysel geri dönüşüm maddelerinin satın alımı için toplayıcı firmalardan teklif alma ve toplayıcı çağırma hizmeti.
-- Kullanıcı, apartman yönetimi, atık toplayıcı firma ve uygulama şirketi için geliştirilmiş kullanıcı rolleri, özellikleri ve ekranları.
 
 ## Hedef Kitle
-- Çevreci gönüllüler
-- Apartman yöneticileri
-- Apartman sakinleri
-- Bina yönetim şirketleri 
-- Geri dönüşüm merkezleri
-- Geri dönüşüm atık toplayıcıları
+- Genel kitle
+  - gizem, gerilim ve survivor türünde oyunları seven oyuncuları 
 
 ## Juriye Not
- 
+Hikaye şuan geliştirilme aşamasında. Her hafta onu güncellemeyi düşünüyoruz.
+
 ## 🖥️ Demo
 Merhaba değerli ziyaretçi demo için seni biraz daha bekletmemiz gerekiyor çünkü sana güzel bir ürün sunmak istiyorum :)  
 
 ## 📝 Lisanslar
-MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için "LICENSE.txt" konusuna bakın.
+MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için `LICENSE.txt` konusuna bakın.
 
 ## 🧐 Katkı
 Pull talepleri kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açın.
@@ -184,10 +181,13 @@ Bu projeyi daha iyi hale getirecek bir öneriniz varsa, lütfen repoyu forklamay
 5. Pull Request açın
   
 ## ✍️ Iletişim
-Herhangi bir geri bildiriminiz varsa, lütfen benimle iletişime geçin.
+Herhangi bir geri bildiriminiz varsa, lütfen bizimle iletişime geçin.
 
-Ali Eren Kayhan -> a.erenkayhan@gmail.com
-
+- Ali Eren Kayhan -> a.erenkayhan@gmail.com
+- Muratcan Ateş -> muratcn.ates@gmail.com
+- Mustafa Kemal Öz -> ozmustafakemal@gmail.com
+- Münteha Yavuz -> muntehany10@gmail.com
+- Nisa Yıldız -> nisayildiz34@gmail.com
 ## 🚀 Kaynak
 
 * https://github.com/othneildrew/Best-README-Template
@@ -198,7 +198,7 @@ Ali Eren Kayhan -> a.erenkayhan@gmail.com
 ---
 
 # Kullanılan Teknolojiler İle İlgili
-## 👾  Built With
+## 👾  Teknolojiler
 * <img align="left" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> 
 ## 🏁 Başlarken
 ### 💡 Önkoşullar
@@ -208,32 +208,63 @@ Ali Eren Kayhan -> a.erenkayhan@gmail.com
   ```
 
 ### ⚙️ İndirme
-1. Başlamak için bu depoyu GitHub hesabınıza forklayın:
+1. Başlamak için bu depoyu GitHub hesabınıza forklayın.
 2. Aşağıdakileri kullanarak depoyu hesabınızdan kopyalayın:
    ```sh
    git clone https://github.com/muratcanatess/U-16-OUA-BOOTCAMP.git
    ```
-3.Unity de projeyi açın
+3. Unity de projeyi açın
 
 Önerilen özelliklerin (ve bilinen sorunların) tam listesi için [açık sorunlara](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/issues) bakın.
 # Sprint 1
- 
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/Bootcamp2022Example/main/ProjectManagement/Sprint1Documents/backlog1.png) 
+- **Sprint içinde tamamlanması tahmin edilen puan total**: 46/70 puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+   - oyun planlaması 10 puan : 8
+   - oyun hikayesi 10 puan : 8
+   - mekanik tasarımı 10 puan : 5
+   - oyun tasarımı 20 puan : 15
+   - level design 20 puan : 10
+   - maplerin yapılması 150 puan : ilerde yapılacak
+   - enemy model ve animasyonları 40 puan : ilerde yapılacak
+   - enemy logici 70 puan : ilerde yapılacak
+   - player model ve animasyonları 40 puan : ilerde yapılacak
+   - player kontrolleri 30 puan: ilerde yapılacak
+   - cutsceneler 100 puan : ilerde yapılacak
+   - seslendirme 30 puan : ilerde yapılacak
+   - minigameler 150 puan : ilerde yapılacak
+   - easter eggler ve collectablelar 50 puan : ilerde yapılacak
+   - VFX 50 puan : ilerde yapılacak
+   - post process 50 puan : ilerde yapılacak
+   - optimizasyon 50 puan : ilerde yapılacak
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1/DailyScrumMeetingNotesSprint1.docx?raw=true)
+
+- **Sprint board update**: 
+  - Sprint board screenshotları: 
+  ![Backlog 1](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/raw/main/ProjectManagement/Sprint1Documents/img/backlog1.png) 
 
 
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product1.png)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product2.png)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product4.gif)
+- **Ürün Durumu**: 
+Geliştirme aşamasında
 
 - **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış, arduino kurulumu ve firebase'e bağlanması sağlanmış, uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Mustafa Aksoy
+  - Alınan kararlar:
+    - Daha fazla toplantı yapma
+    - Hikayeyi ve level desgin daha ayrıntılı geliştirilecek
+    - Oyun geliştirme süreçine başlamak
+
+  - Sprint Review katılımcıları: 
+    - Ali Eren Kayhan 
+    - Muratcan Ateş 
+    - Mustafa Kemal Öz 
+    - Münteha Yavuz 
+    - Nisa Yıldız
 
 - **Sprint Retrospective:**
   - Roller ile ilgili düzenleme yapılmıştır.
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
- 
+  - Oyunun detayları belirlenmiştir.
 ---
 ## Product Backlog URL
 
