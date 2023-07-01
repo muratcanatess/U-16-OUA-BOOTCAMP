@@ -287,9 +287,8 @@ Geliştirme aşamasında
    - post process 50 puan : ilerde yapılacak
    - optimizasyon 50 puan : ilerde yapılacak
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/ProjectManagement/Sprint2Documents/DailyScrumMeetingNotesSprint2/DailyScrumMeetingNotesSprint2.docx?raw=true)
-
-- **Sprint board update**: 
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/ProjectManagement/Sprint2Documents/DailyScrumMeetingNotesSprint2/DailyScrumMeetingSprint2.docx?raw=true)
+ - **Sprint board update**: 
   - Sprint board screenshotları: 
   ![Backlog 2](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/raw/main/ProjectManagement/Sprint2Documents/img/backlog2.png) 
 
