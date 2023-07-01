@@ -34,14 +34,7 @@
       - [💡Önkoşullar](#💡-Önkoşullar)
       - [İndirme](#⚙️-İndirme)
 - [Sprint 1](#Sprint-1)
-   - [Sprint içinde tamamlanması tahmin edilen puan total](#Sprint-içinde-tamamlanması-tahmin-edilen-puan-total)
-   - [Puan tamamlama mantığı](#Puan-tamamlama-mantığı)
-   - [Daily Scrum](#Daily-Scrum)
-   - [Sprint board update](#Sprint-board-update)
-   - [Ürün Durumu](#Ürün-Durumu)
-   - [Sprint Review](#Sprint-Review)
-   - [Sprint Retrospective](#Sprint-Retrospective)
-   - [Product Backlog URL](#Product-BacklogURL)
+- [Sprint 2](#Sprint-2)
 
 # **Takım İsmi**
 - Takım Unity 16
@@ -87,7 +80,7 @@
         <a href="https://github.com/muntehayvz">
             <img src="https://avatars.githubusercontent.com/u/110225035?v=4" width="100;" alt="muratcanatess"/>
             <br />
-            <sub><b>Münteha Yavuz</b></sub>
+            <sub><b>Münteha Nur Yavuz</b></sub>
 <br/>
             <sub><b>Developer</b></sub>
         </a>
@@ -107,7 +100,7 @@
 </table>
 
 ## Oyun İsmi
--- Mind Maze --
+-- Hypnose --
 
 ## Ürün Badge 
 <div align="center">
@@ -186,7 +179,7 @@ Herhangi bir geri bildiriminiz varsa, lütfen bizimle iletişime geçin.
 - Ali Eren Kayhan -> a.erenkayhan@gmail.com
 - Muratcan Ateş -> muratcn.ates@gmail.com
 - Mustafa Kemal Öz -> ozmustafakemal@gmail.com
-- Münteha Yavuz -> muntehany10@gmail.com
+- Münteha Nur Yavuz -> muntehany10@gmail.com
 - Nisa Yıldız -> nisayildiz34@gmail.com
 ## 🚀 Kaynak
 
@@ -265,6 +258,62 @@ Geliştirme aşamasında
   - Roller ile ilgili düzenleme yapılmıştır.
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   - Oyunun detayları belirlenmiştir.
+---
+## Product Backlog URL
+
+[Unity Takım 16 Miro Backlog Board](https://miro.com/app/board/uXjVMCWrkAs=/)
+
+---
+
+# Sprint 2
+- **Sprint içinde tamamlanması tahmin edilen puan total**: 60/70 puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+   - oyun planlaması 10 puan : 9.5
+   - oyun hikayesi 10 puan : 9.5
+   - mekanik tasarımı 10 puan : 7
+   - oyun tasarımı 20 puan : 17
+   - level design 20 puan : 10
+   - maplerin yapılması 150 puan : 35
+   - enemy model ve animasyonları 40 puan : 20
+   - enemy logici 70 puan : ilerde yapılacak
+   - player model ve animasyonları 40 puan : 20
+   - player kontrolleri 30 puan: ilerde yapılacak
+   - cutsceneler 100 puan : ilerde yapılacak
+   - seslendirme 30 puan : ilerde yapılacak
+   - minigameler 150 puan : ilerde yapılacak
+   - easter eggler ve collectablelar 50 puan : ilerde yapılacak
+   - VFX 50 puan : ilerde yapılacak
+   - post process 50 puan : ilerde yapılacak
+   - optimizasyon 50 puan : ilerde yapılacak
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/ProjectManagement/Sprint2Documents/DailyScrumMeetingNotesSprint2/DailyScrumMeetingNotesSprint2.docx?raw=true)
+
+- **Sprint board update**: 
+  - Sprint board screenshotları: 
+  ![Backlog 2](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/raw/main/ProjectManagement/Sprint2Documents/img/backlog2.png) 
+
+
+- **Ürün Durumu**: 
+Geliştirme aşamasında
+
+- **Sprint Review**: 
+  - Alınan kararlar:
+    - Map planlandı
+    - Kötü karakter ve ana karakter için belirli karakterler belirlendi
+    - Hikaye geliştirmeleri yapıldı
+      - Hikaye teması geliştirildi
+
+  - Sprint Review katılımcıları: 
+    - Ali Eren Kayhan 
+    - Muratcan Ateş 
+    - Mustafa Kemal Öz 
+    - Münteha Nur Yavuz 
+    - Nisa Yıldız
+
+- **Sprint Retrospective:**
+  - Oyunun detayları belirlenmiştir.
+  - Hafta içi opsiyonel toplantılar yapıldı
 ---
 ## Product Backlog URL
 
