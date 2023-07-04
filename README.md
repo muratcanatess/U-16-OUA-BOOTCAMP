@@ -293,8 +293,11 @@ Geliştirme aşamasında
   ![Backlog 2](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/raw/main/ProjectManagement/Sprint2Documents/img/backlog2.png) 
 
 
-- **Ürün Durumu**: 
-Geliştirme aşamasında
+- **Ürün Durumu**:
+  - Ekran görüntüleri:
+    
+  ![characterblender](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/ProjectManagement/Sprint2Documents/img/characterblender.jpg?raw=true)
+  ![gamemap](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/ProjectManagement/Sprint2Documents/img/gamemap.jpg?raw=true) 
 
 - **Sprint Review**: 
   - Alınan kararlar:
