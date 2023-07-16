@@ -346,10 +346,10 @@ Geliştirme aşamasında
 - **Ürün Durumu**:
   - Ekran görüntüleri:
   ![backlog3](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/ProjectManagement/Sprint3Documents/img/backlog3_5.png?raw=true)
-  ![backlog3](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/ProjectManagement/Sprint3Documents/img/backlog3.png?raw=true) 
-  ![backlog3](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/ProjectManagement/Sprint3Documents/img/backlog3_2.png?raw=true)
+  ![backlog3](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/ProjectManagement/Sprint3Documents/img/backlog3_2.png?raw=true) 
   ![backlog3](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/ProjectManagement/Sprint3Documents/img/backlog3_3.png?raw=true)
   ![backlog3](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/ProjectManagement/Sprint3Documents/img/backlog3_4.png?raw=true)
+  ![backlog3](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/ProjectManagement/Sprint3Documents/img/backlog3_6.png?raw=true)
  
 - **Sprint Review**: 
   - Alınan kararlar:
