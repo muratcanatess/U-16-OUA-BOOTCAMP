@@ -381,7 +381,7 @@ Geliştirme aşamasında
 ## Juriye Not
 - Oyun HDRP ile yapıldı ve yüksek kalite de grafik ayarları içeriyor bu yüzden bazı bilgisayarlarda kasabilir. 
 - Çevreye koyduğumuz saklı nesneler ve easter eggler var.
-- Ekipte herkes kod yazdı ama GitHub a yüklemede sorun yaşadık o yüzden drive olarak attık bazı kodlaarı birbirimize
+- Ekipte herkes çalıştı ama GitHub a yüklemede sorun yaşadık o yüzden drive olarak attık bazı kodlaarı birbirimize
 - Elimizden gelenin en iyisini yapmaya çalıştık umarız beğenirsiniz. 
 - Keyifli oynamalar :)
 ---
