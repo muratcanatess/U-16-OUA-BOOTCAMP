@@ -340,14 +340,17 @@ Geliştirme aşamasında
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/ProjectManagement/Sprint3Documents/DailyScrumMeetingNotesSprint3/DailyScrumMeetingSprint3.docx?raw=true)
  - **Sprint board update**: 
   - Sprint board screenshotları: 
-  ![Backlog 3](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/raw/main/ProjectManagement/Sprint3Documents/img/backlog3.png) 
+  ![Backlog 3](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/raw/main/ProjectManagement/Sprint3Documents/img/backlog_5.png) 
 
 
 - **Ürün Durumu**:
   - Ekran görüntüleri:
-    
-  ![gamemap](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/ProjectManagement/Sprint3Documents/img/gamemap.jpg?raw=true) 
-
+  ![backlog3](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/ProjectManagement/Sprint3Documents/img/backlog3_5.png?raw=true)
+  ![backlog3](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/ProjectManagement/Sprint3Documents/img/backlog3.png?raw=true) 
+  ![backlog3](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/ProjectManagement/Sprint3Documents/img/backlog3_2.png?raw=true)
+  ![backlog3](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/ProjectManagement/Sprint3Documents/img/backlog3_3.png?raw=true)
+  ![backlog3](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/ProjectManagement/Sprint3Documents/img/backlog3_4.png?raw=true)
+ 
 - **Sprint Review**: 
   - Alınan kararlar:
     - Ses efekleri ayarlandı
