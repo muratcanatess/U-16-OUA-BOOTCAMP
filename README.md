@@ -22,7 +22,6 @@
    - [Oyun Açıklaması](#Oyun-Açıklaması)
    - [Oyun Özellikleri](#Oyun-Özellikleri)
    - [Hedef Kitle](#Hedef-Kitle)
-   - [Juriye Not](#Juriye-Not)
    - [Demo](#🖥️-Demo)
    - [Lisanslar](#📝-Lisanslar)
    - [Katkı](#🧐-Katkı)
@@ -35,6 +34,7 @@
       - [İndirme](#⚙️-İndirme)
 - [Sprint 1](#Sprint-1)
 - [Sprint 2](#Sprint-2)
+- [Sprint 3](#Sprint-3)
 
 # **Takım İsmi**
 - Takım Unity 16
@@ -148,16 +148,9 @@
 - Easter içeriyor
 - 2 sonu var (biri iyi diğeri kötü)
 
-
 ## Hedef Kitle
 - Genel kitle
   - gizem, gerilim ve survivor türünde oyunları seven oyuncuları 
-
-## Juriye Not
-Hikaye şuan geliştirilme aşamasında. Her hafta onu güncellemeyi düşünüyoruz.
-
-## 🖥️ Demo
-Merhaba değerli ziyaretçi demo için seni biraz daha bekletmemiz gerekiyor çünkü sana güzel bir ürün sunmak istiyorum :)  
 
 ## 📝 Lisanslar
 MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için `LICENSE.txt` konusuna bakın.
@@ -321,4 +314,70 @@ Geliştirme aşamasında
 
 [Unity Takım 16 Miro Backlog Board](https://miro.com/app/board/uXjVMCWrkAs=/)
 
+---
+# Sprint 3
+- **Sprint içinde tamamlanması tahmin edilen puan total**: 65/70 puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+   - oyun planlaması 10 puan : 9.8
+   - oyun hikayesi 10 puan : 10
+   - mekanik tasarımı 10 puan : 9
+   - oyun tasarımı 20 puan : 18.2
+   - level design 20 puan : 17
+   - maplerin yapılması 150 puan : 140
+   - enemy model ve animasyonları 40 puan : 37
+   - enemy logici 70 puan : 67
+   - player model ve animasyonları 40 puan : 30
+   - player kontrolleri 30 puan: 27
+   - cutsceneler 100 puan : 80
+   - seslendirme 30 puan : 20
+   - minigameler 150 puan : 100
+   - easter eggler ve collectablelar 50 puan : 45
+   - VFX 50 puan : 40
+   - post process 50 puan : 40
+   - optimizasyon 50 puan : 40
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/ProjectManagement/Sprint3Documents/DailyScrumMeetingNotesSprint3/DailyScrumMeetingSprint3.docx?raw=true)
+ - **Sprint board update**: 
+  - Sprint board screenshotları: 
+  ![Backlog 3](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/raw/main/ProjectManagement/Sprint3Documents/img/backlog3.png) 
+
+
+- **Ürün Durumu**:
+  - Ekran görüntüleri:
+    
+  ![gamemap](https://github.com/muratcanatess/U-16-OUA-BOOTCAMP/blob/main/ProjectManagement/Sprint3Documents/img/gamemap.jpg?raw=true) 
+
+- **Sprint Review**: 
+  - Alınan kararlar:
+    - Ses efekleri ayarlandı
+    - Trailer planlandı
+    - Kötü karakter ve ana karakter için belirli karakterler kodları düzenlendi
+    - Hikaye geliştirmeleri tamamlandı
+      - Hikaye teması tamamlandı
+    - Harita düzeni ayarlandı
+
+  - Sprint Review katılımcıları: 
+    - Ali Eren Kayhan 
+    - Muratcan Ateş 
+    - Münteha Nur Yavuz 
+    - Nisa Yıldız
+
+- **Sprint Retrospective:**
+  - Oyunun detayları belirlenmiştir.
+  - Hafta içi opsiyonel toplantılar yapıldı
+  - Oyunun tüm hatları toplantılar ile kesinleştirildi
+  - Oyunun trailer'ı nasıl olacağı kesinleştirildi
+  - Oyunun mekanik ve harita uyumluluğu kontrol edildi
+  - Optimizasyon denemeleri yapıldı
+---
+## Product Backlog URL
+
+[Unity Takım 16 Miro Backlog Board](https://miro.com/app/board/uXjVMCWrkAs=/)
+
+## Juriye Not
+- Oyun HDRP ile yapıldı ve yüksek kalite de grafik ayarları içeriyor bu yüzden bazı bilgisayarlarda kasabilir. 
+- Çevreye koyduğumuz saklı nesneler ve easter eggler var.
+- Elimizden gelenin en iyisini yapmaya çalıştık umarız beğenirsiniz. 
+- Keyifli oynamalar :)
 ---
