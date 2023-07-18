@@ -387,7 +387,8 @@ Geliştirme aşamasında
 - Drive linki = https://drive.google.com/drive/folders/1_3lf2h44jy8bqSXRjeXo4lLigNXxagUn?usp=drive_link
 - İtch.io link (oynamak için)= https://alierenkayhan.itch.io/hypnose
 - Credits link = https://docs.google.com/document/d/1w4QX-oi6PsjnVzBooezgkh3gf-uxZSml/edit?usp=sharing&ouid=101856718604643272651&rtpof=true&sd=true
-- Trailer linki = https://www.canva.com/design/DAFo0Z7k88g/5ZEx_FYxqVsOPZsXSIKRoA/edit?utm_content=DAFo0Z7k88g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- Trailer linki (canvas) = https://www.canva.com/design/DAFo0Z7k88g/5ZEx_FYxqVsOPZsXSIKRoA/edit?utm_content=DAFo0Z7k88g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- Trailer linki (youtube) = https://youtu.be/P0CQN6WqnPw 
 - Elimizden gelenin en iyisini yapmaya çalıştık umarız beğenirsiniz.
 - Keyifli oynamalar :)
 ---
