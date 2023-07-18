@@ -382,6 +382,11 @@ Geliştirme aşamasında
 - Oyun HDRP ile yapıldı ve yüksek kalite de grafik ayarları içeriyor bu yüzden bazı bilgisayarlarda kasabilir. 
 - Çevreye koyduğumuz saklı nesneler ve easter eggler var.
 - Ekipte herkes çalıştı ama GitHub a yüklemede sorun yaşadık o yüzden drive olarak attık birbirimize oyunu
-- Elimizden gelenin en iyisini yapmaya çalıştık umarız beğenirsiniz. 
+- GitHub'a scripts lere attık güncel olarak
+- Oyunun geri kalanını drive a attık
+- Drive linki = https://drive.google.com/drive/folders/1_3lf2h44jy8bqSXRjeXo4lLigNXxagUn?usp=drive_link
+- İtch.io link (oynamak için)= https://alierenkayhan.itch.io/hypnose
+- Credits link = https://docs.google.com/document/d/1w4QX-oi6PsjnVzBooezgkh3gf-uxZSml/edit?usp=sharing&ouid=101856718604643272651&rtpof=true&sd=true
+- Elimizden gelenin en iyisini yapmaya çalıştık umarız beğenirsiniz.
 - Keyifli oynamalar :)
 ---
