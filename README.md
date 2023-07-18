@@ -390,3 +390,8 @@ Geliştirme aşamasında
 - Elimizden gelenin en iyisini yapmaya çalıştık umarız beğenirsiniz.
 - Keyifli oynamalar :)
 ---
+
+![game](https://img.itch.zone/aW1nLzEyODQyNTAxLnBuZw==/original/7CaFiG.png) 
+
+[![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png)](https://alierenkayhan.itch.io/hypnose)
+
